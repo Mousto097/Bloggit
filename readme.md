@@ -1,20 +1,21 @@
-# TodoList
+# BlogApp
 
 A platform for helping organize your tasks.
 
-![TodoList Screenshot](WikiImages/TodoListHomepage.png?raw=true)
+![TodoList Screenshot](WikiImages/Homepage.png?raw=true)
+![TodoList Screenshot](WikiImages/BlogPost.png?raw=true)
 
 # Table of Contents
 
-- [What is TodoList?](#what-is-todolist)
+- [What is BlogApp?](#what-is-blogapp)
 - [Contributors](#contributors)
 - [Tech Stack](#tech-stack)
 - [License](#license)
 - [Contact](#contact)
 
-# What is TodoList?
+# What is BlogApp?
  
-TodoList is a powerful tool for managing tasks effectively and organizing your time.
+This is a website with a blog application. It also includes full authentication and file uploading.
 
 # Contributors
 
@@ -22,8 +23,8 @@ TodoList is a powerful tool for managing tasks effectively and organizing your t
     * Full Stack Developer
 # Tech Stack
 
-* React
-* Bootstrap
+* Laravel @^5.4.*
+* Bootstrap 4
 
 # Wiki
 

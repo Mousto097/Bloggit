@@ -1,6 +1,6 @@
 # BlogApp
 
-A platform for helping organize your tasks.
+A platform to share a person’s thoughts, feelings, opinions or experiences – an online journal or diary with a minimal following. Enjoy!
 
 ![TodoList Screenshot](WikiImages/Homepage.png?raw=true)
 ![TodoList Screenshot](WikiImages/BlogPost.png?raw=true)

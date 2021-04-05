@@ -1,4 +1,4 @@
-# BlogApp
+# Bloggit
 
 A platform to share a person’s thoughts, feelings, opinions or experiences – an online journal or diary with a minimal following. Enjoy!
 

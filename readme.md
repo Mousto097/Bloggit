@@ -5,14 +5,6 @@ A platform to share a person’s thoughts, feelings, opinions or experiences –
 ![TodoList Screenshot](WikiImages/Homepage.png?raw=true)
 ![TodoList Screenshot](WikiImages/BlogPost.png?raw=true)
 
-# Table of Contents
-
--   [What is BlogApp?](#what-is-blogapp)
--   [Contributors](#contributors)
--   [Tech Stack](#tech-stack)
--   [License](#license)
--   [Contact](#contact)
-
 # What is Bloggit?
 
 Bloggit is a website with a blog application. It also includes full authentication and file uploading.

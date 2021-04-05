@@ -26,6 +26,7 @@ Bloggit is a website with a blog application. It also includes full authenticati
 
 -   Laravel @^5.4.\*
 -   Bootstrap 4
+-   PostgreSQL
 
 # Wiki
 

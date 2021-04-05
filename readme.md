@@ -13,9 +13,9 @@ A platform to share a person’s thoughts, feelings, opinions or experiences –
 -   [License](#license)
 -   [Contact](#contact)
 
-# What is BlogApp?
+# What is Bloggit?
 
-This is a website with a blog application. It also includes full authentication and file uploading.
+Bloggit is a website with a blog application. It also includes full authentication and file uploading.
 
 # Contributors
 
